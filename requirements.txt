@@ -1,0 +1,4 @@
+Django==1.9.4
+argparse==1.2.1
+django-localflavor==1.2
+wsgiref==0.1.2
